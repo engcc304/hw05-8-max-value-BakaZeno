@@ -31,7 +31,7 @@ int main(){
     printf("2nd Number = %d\n",number2);
     printf("3rd Number = %d\n",number3);
     if(number1>number2 && number1>number3){
-        printf("The 1st Number is the greatest among three");
+        printf("The 1rd Number is the greatest among three");
     }
     else if(number2>number1 && number2>number3){
         printf("The 2nd Number is the greatest among three");
